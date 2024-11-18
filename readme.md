@@ -43,6 +43,7 @@ terraform plan
 terraform apply
 
 
-#Vefificar projéto
+## Vefificar projéto
  
+ ```bash
 gcloud compute instances list --project nome-do-projeto
